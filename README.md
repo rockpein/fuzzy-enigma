@@ -1,6 +1,6 @@
 # University Projects
 ## Deep Learning: Price estimation of Berlin Airbnb Data
-###fuzzy-enigma
+### fuzzy-enigma
 
 The aim of this project was to predict Airbnb prices in Berlin. 
 Data we have used were the part of the competition on Kaggle. Data Source: https://www.kaggle.com/brittabettendorf/berlin-airbnb-data
